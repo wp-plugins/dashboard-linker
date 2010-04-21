@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dashboard_linker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-19 00:04+0900\n"
+"PO-Revision-Date: 2010-04-19 00:13+0900\n"
+"Last-Translator: HAYASHI Ryo <ryo@spais.co.jp>\n"
+"Language-Team: SPaiS Inc. <info@spais.co.jp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dashboard-linker.php:64
+msgid "Add"
+msgstr "追加"
+
+#: dashboard-linker.php:68
+msgid "Edit"
+msgstr "編集"
+
+#: dashboard-linker.php:69
+msgid "Delete"
+msgstr "削除"
+
+#: dashboard-linker.php:70
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: dashboard-linker.php:75
+msgid "Edit Link Form"
+msgstr "リンク編集フォーム"
+
+#: dashboard-linker.php:78
+msgid "Title"
+msgstr "タイトル"
+
+#: dashboard-linker.php:80
+msgid "URI"
+msgstr "URI"
+
+#: dashboard-linker.php:82
+msgid "Tags"
+msgstr "タグ"
+
+#: dashboard-linker.php:84
+msgid "Separate tags with commas."
+msgstr "複数のタグはコンマで区切ってください。"
+
+#: dashboard-linker.php:85
+msgid "Redirect"
+msgstr "リダイレクト"
+
+#: dashboard-linker.php:87
+msgid "Not do it"
+msgstr "しない"
+
+#: dashboard-linker.php:88
+msgid "Do it"
+msgstr "する"
+
+#: dashboard-linker.php:92
+msgid "Close"
+msgstr "閉じる"
+
+#: dashboard-linker.php:92
+msgid "Open Edit Link Form"
+msgstr "リンク編集フォームを開く"
+
+#: dashboard-linker.php:105
+msgid "Added link."
+msgstr "リンクを追加しました。"
+
+#: dashboard-linker.php:124
+msgid "Deleted link."
+msgstr "リンクを削除しました。"
+
+#: dashboard-linker.php:126
+#: dashboard-linker.php:150
+msgid "There is no such link ID"
+msgstr "そのような ID のリンクはありません。"
+
+#: dashboard-linker.php:148
+msgid "Edited link."
+msgstr "リンクを編集しました。"
+
+#: dashboard-linker.php:156
+msgid "Invalid nonce."
+msgstr "nonce が不正です。"
+
+#: dashboard-linker.php:165
+msgid "URI is required."
+msgstr "URI を入力して下さい。"
+
+#: dashboard-linker.php:167
+msgid "Invalid URI."
+msgstr "URI の形式が正しくありません。"
+
+#: dashboard-linker.php:172
+msgid "Title is required."
+msgstr "タイトルを入力して下さい。"
+
+#: dashboard-linker.php:174
+#: dashboard-linker.php:176
+msgid "Title is duplicated."
+msgstr "タイトルが重複しています。"
+
+#: dashboard-linker.php:181
+msgid "Tag is required."
+msgstr "タグを入力して下さい。"
+
+#: dashboard-linker.php:232
+msgid "Dashboard linker"
+msgstr "リンク"
+
+#: dashboard-linker.php:275
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: dashboard-linker.php:275
+#: dashboard-linker.php:276
+#: dashboard-linker.php:277
+#: dashboard-linker.php:278
+#: dashboard-linker.php:279
+msgid "SEO"
+msgstr "SEO"
+
+#: dashboard-linker.php:275
+#: dashboard-linker.php:276
+msgid "Analysis"
+msgstr "分析"
+
+#: dashboard-linker.php:276
+msgid "Google Website Optimizer"
+msgstr "Google ウェブサイトオプティマイザー"
+
+#: dashboard-linker.php:277
+msgid "Google Webmaster Central"
+msgstr "Google ウェブマスターセントラル"
+
+#: dashboard-linker.php:278
+msgid "Yahoo! Site Explorer"
+msgstr "Yahoo! サイトエクスプローラー"
+
+#: dashboard-linker.php:279
+msgid "Bing Webmaster Center"
+msgstr "Bing ウェブマスターセンター"
+
+#: dashboard-linker.php:280
+msgid "SPaiS Inc."
+msgstr "SPaiS Inc."
+
+#: dashboard-linker.php:280
+msgid "Producer"
+msgstr "制作者"
+
