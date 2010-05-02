@@ -90,5 +90,6 @@ ul.dashboard_linker_list a.editBtn:hover{
 #dashboard-widgets-wrap #dashboard-widgets p.open{
 	margin:0;
 	padding:0;
+	float:none;
 	text-align:right;
 }
