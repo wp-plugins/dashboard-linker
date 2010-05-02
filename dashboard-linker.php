@@ -3,11 +3,11 @@
  * Plugin Name: Dashboard linker
  * Plugin URI: http://spais.co.jp/wordpress/plugins/dashboard-linker
  * Description: Create a link to the dashboard
- * Version: 0.1.0
+ * Version: 0.1.1
  * Author: SPaiS Inc.
  * Author URI: http://spais.co.jp
  */
-class Dashboard_linker {
+class Dashboard_l inker {
     var $_errors = array();
     var $_notices = array();
     var $_defaults = array();
@@ -282,7 +282,7 @@ class Dashboard_linker {
                 array('title' => __('Google Webmaster Central', __CLASS__), 'uri' => 'http://www.google.com/webmasters/', 'tag' => array(__('SEO', __CLASS__)), 'redirect' => '0'),
                 array('title' => __('Yahoo! Site Explorer', __CLASS__), 'uri' => 'http://siteexplorer.search.yahoo.co.jp/', 'tag' => array(__('SEO', __CLASS__)), 'redirect' => '0'),
                 array('title' => __('Bing Webmaster Center', __CLASS__), 'uri' => 'http://www.bing.com/webmaster', 'tag' => array(__('SEO', __CLASS__)), 'redirect' => '0'),
-                array('title' => __('SPaiS Inc.', __CLASS__), 'uri' => 'http://spais.co.jp/', 'tag' => array(__('Producer', __CLASS__))), 'redirect' => '0');
+                array('title' => __('SPaiS Inc.', __CLASS__), 'uri' => 'http://spais.co.jp/', 'tag' => array(__('Producer', __CLASS__)), 'redirect' => '0'));
         update_option('dashboard_link_list', $links);
     }
 }
